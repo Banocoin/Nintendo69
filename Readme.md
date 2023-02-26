@@ -1,4 +1,9 @@
-# Nintendo69 - A GameCube and Wii Emulator
+# Nintendo69 - Nintendo69 is a GameCube / Wii / WiiU / SNES / NES emulator, allowing you to play games for these two platforms on PC with improvements. For Vite Tokens!
+
+<img src="https://p3d.in/static/uploads/11324/image-2c471321640.png" alt="Nintendo69" width="300"/>
+<br/><br/>
+
+
 
 [Homepage](https://dolphin-emu.org/) | [Project Site](https://github.com/dolphin-emu/dolphin) | [Buildbot](https://dolphin.ci/) | [Forums](https://forums.dolphin-emu.org/) | [Wiki](https://wiki.dolphin-emu.org/) | [GitHub Wiki](https://github.com/dolphin-emu/dolphin/wiki) | [Issue Tracker](https://bugs.dolphin-emu.org/projects/emulator/issues) | [Coding Style](https://github.com/dolphin-emu/dolphin/blob/master/Contributing.md) | [Transifex Page](https://explore.transifex.com/delroth/dolphin-emu/)
 
